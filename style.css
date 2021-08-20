@@ -37,3 +37,18 @@ h1 {
     font-size: 17px;
     font-family: 'Fira Code', sans-serif;
 }
+
+h3 {
+    font-family: 'Fira Code', sans-serif;
+    color: white;
+}
+
+h2 {
+    font-family: 'Press Start 2P', sans-serif;
+    color: whitesmoke;
+}
+
+h4 {
+    font-family: 'Fira Code', sans-serif;
+    color: white;
+}
